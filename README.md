@@ -1,13 +1,14 @@
-**🎗️ Breast Cancer Prediction System**
-<img width="1402" height="1122" alt="Image" src="https://github.com/user-attachments/assets/50e9cec4-e22c-4803-88eb-e84ae9fe9aee" />   
-  
-  **🌐 Deployment**  
+**🌐 Deployment**  
 
 The application is designed for deployment on:
 
-Streamlit Cloud  
+Streamlit Cloud    
   
-https://breast-cancer-predictor-iyxb2lwnbizujluwvomtwv.streamlit.app/  
+  
+[![Live App](https://img.shields.io/badge/Streamlit_App-Click_to_Test-red?style=for-the-badge&logo=streamlit)](https://breast-cancer-predictor-iyxb2lwnbizujluwvomtwv.streamlit.app/)  
+  
+**🎗️ Breast Cancer Prediction System**
+<img width="1402" height="1122" alt="Image" src="https://github.com/user-attachments/assets/50e9cec4-e22c-4803-88eb-e84ae9fe9aee" />   
     
 A professional Machine Learning-powered healthcare application that predicts whether a breast tumor is Benign (Non-Cancerous) or Malignant (Cancerous) using clinical cell measurement data. The system is built with a production-ready ML pipeline and an interactive Streamlit dashboard for real-time predictions and model analysis.
 
